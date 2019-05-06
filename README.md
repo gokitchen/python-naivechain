@@ -1,4 +1,4 @@
-# python-nativechain
-mastering nativechain by python  
+# python-naivechain
+mastering naivechain by python  
   
 URL : https://github.com/lhartikk/naivechain
